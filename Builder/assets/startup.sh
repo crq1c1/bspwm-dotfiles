@@ -11,4 +11,5 @@ printf "${cb} ┌─┘├─┘├┬┘│ ││ ┬├┤ ├┬┘   ││
 printf "${cb} └─┘┴  ┴└─└─┘└─┘└─┘┴└─  ─┴┘└─┘ ┴ └  ┴┴─┘└─┘└─┘\n\n"
 printf "${cg} Version: 1.0\n"
 printf "${cg} Youtube: https://youtube.com/@zproger"
+printf "${cg} Fork by nf776"
 printf "${default}\n\n"
